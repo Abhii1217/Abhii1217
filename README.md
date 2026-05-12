@@ -33,7 +33,7 @@ const abhishek = {
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,java&theme=dark&perline=10" />
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,docker,git,github&theme=dark&perline=10" />
-<img src="https://skillicons.dev/icons?i=vscode,linux,python,c&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=vscode,linux,python,vercel,c&theme=dark&perline=10" />
 
 </div>
 
