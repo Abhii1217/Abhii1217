@@ -33,7 +33,7 @@ const abhishek = {
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,java&theme=dark&perline=10" />
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,docker,git,github&theme=dark&perline=10" />
-<img src="https://skillicons.dev/icons?i=vscode,linux,python,vercel,c&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=postman,vscode,linux,python,vercel,c&theme=dark&perline=10" />
 
 </div>
 
@@ -44,7 +44,7 @@ const abhishek = {
 - **Backend :** Java, Node.js, Express.js, REST APIs
 - **Databases :** MySQL, MongoDB
 - **DevOps & Cloud :** Docker, Linux, Vercel, Render
-- **Tools :** Git, GitHub, VS Code
+- **Tools :** Git, GitHub,Postman, VS Code
 
 <br/>
 <br/>
