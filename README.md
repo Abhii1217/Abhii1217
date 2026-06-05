@@ -44,7 +44,7 @@ const abhishek = {
 - **Backend :** Java, Node.js, Express.js, REST APIs
 - **Databases :** MySQL, MongoDB
 - **DevOps & Cloud :** Docker, Linux, Vercel, Render
-- **Tools :** Git, GitHub,Postman, VS Code
+- **Tools :** Git, GitHub, Postman, VS Code
 
 <br/>
 <br/>
